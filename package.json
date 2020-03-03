@@ -1,0 +1,23 @@
+{
+  "name": "Protocol-Buffers",
+  "version": "1.0.0",
+  "description": "learning how to use Google's protocol buffers",
+  "main": "employees_pb.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nick-hsiao/Protocol-Buffers.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nick-hsiao/Protocol-Buffers/issues"
+  },
+  "homepage": "https://github.com/nick-hsiao/Protocol-Buffers#readme",
+  "dependencies": {
+    "google-protobuf": "^3.11.4"
+  }
+}
