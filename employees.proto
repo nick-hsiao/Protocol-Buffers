@@ -1,5 +1,7 @@
 syntax = "proto3";
 
+package default;
+
 message Employee{
     int32 emp_id = 1;
     string f_name = 2;
